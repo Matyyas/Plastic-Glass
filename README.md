@@ -1,5 +1,5 @@
-# Plastic-Glass
-End-to-end Glass bottles vs Plastic bottles images classifier.
+# Plastic-Glass classifer
+End-to-end Glass bottles vs Plastic bottles images classifier. 
 
 
 ## Scrapping
@@ -7,8 +7,10 @@ End-to-end Glass bottles vs Plastic bottles images classifier.
 ## Processing 
 - Reshaping
 - Data Augmentation
-## Train
+## Training
 - VGG-16 network
-## Predict
+## Making prediction
 
 Up to the user to adapt the images to scrap and make a new classifier :)!
+
+
