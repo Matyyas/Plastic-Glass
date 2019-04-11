@@ -1,4 +1,4 @@
-# Plastic-Glass classifer
+# Plastic-Glass classifier
 End-to-end Glass bottles vs Plastic bottles images classifier. 
 
 
